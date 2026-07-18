@@ -204,6 +204,11 @@ Dashboard includes:
 * Store Performance
 * Interactive Filters
 
+
+## Dashboard Preview
+
+![Sales Forecasting Dashboard](dashboard/dashboard.png)
+
 ---
 
 # Machine Learning Pipeline
