@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+.venv-1/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Dataset files
+data/
+
+# Models
+models/
+
+# Outputs
+outputs/
